@@ -12,7 +12,7 @@ output:
     toc_depth: 3
     toc_float: yes
 navbar:
-  title: Estrella da Boss
+  title: Katherine (Katie) R. Martin
   left:
   - text: Home
     href: index.html
@@ -25,7 +25,7 @@ navbar:
   #   icon: fa-id-card
   right:
   - icon: fa-twitter
-    href: https://twitter.com/another_ant_guy
+    href: https://twitter.com/kaptainrose
     align: right
   - { icon: "fa-linkedin", href: "https://www.linkedin.com/in/biplabendu/", align: right }
   - { icon: "fa-facebook", href: "https://www.facebook.com/biplabendu", align: right }
