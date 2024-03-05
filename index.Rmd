@@ -1,5 +1,5 @@
 ---
-title: "test test"
+title: "Katherine (Katie) R. Martin"
 output:
   html_document:
     toc: no
@@ -20,7 +20,7 @@ knitr::include_graphics("my_smiling_face_here.jpg")
    
 <h6 style="text-align: center;" markdown="1">
 
-Email: da_boss_estrella [at] hotmail [dot] com
+Email: martin.katherine.rose[at] gmail [dot] com
 
 </h6>     
 
