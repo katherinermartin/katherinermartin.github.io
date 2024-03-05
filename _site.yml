@@ -20,9 +20,9 @@ navbar:
   - text: Research
     href: research.html
     icon: fa-flask
-  # - text: Resume
-  #   href: "./resume/resume_john_doe.pdf"
-  #   icon: fa-id-card
+  - text: CV
+    href: "./resume/resume_john_doe.pdf"
+    icon: fa-id-card
   right:
   - icon: fa-twitter
     href: https://twitter.com/kaptainrose
