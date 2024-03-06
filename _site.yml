@@ -21,14 +21,13 @@ navbar:
     href: research.html
     icon: fa-flask
   - text: CV
-    href: "./resume/resume_john_doe.pdf"
+    href: "./CV/KRMartin_CV_Feb24.pdf"
     icon: fa-id-card
   right:
   - icon: fa-twitter
     href: https://twitter.com/kaptainrose
     align: right
-  - { icon: "fa-linkedin", href: "https://www.linkedin.com/in/biplabendu/", align: right }
-  - { icon: "fa-facebook", href: "https://www.facebook.com/biplabendu", align: right }
+  - { icon: "fa-google-scholar", href: "https://scholar.google.com/citations?user=07S8gvAAAAAJ&hl=en", align: right }
 
 
 # Resources:
