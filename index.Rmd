@@ -14,9 +14,6 @@ pacman::p_load(knitr)
 
 ###
 
-```{r, echo=FALSE, fig.cap="Hi! I am Estrella.", out.width = '30%', fig.align='center'}
-knitr::include_graphics("Cc_IRL_KRM_2.jpeg")
-```
    
 <h6 style="text-align: center;" markdown="1">
 
