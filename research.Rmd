@@ -19,33 +19,45 @@ body {text-align: left}
 
 ___
 
-## 1. Test test
+## Current research
 
-Hoomans love their food, and I love to qualitatively assess the variation across hooman food. 
+### Reptile immune system evolution
 
->_I love protein-rich food. Sometimes, pasta is okay._
+Building off of my dissertation work, I primarily use genomic and genetic data to understand how reptile immune systems evolve and to what extent adaptive variation at immune loci may enable reptile species to respond to disease.
 
-### Story time 
+Using reptile genomes, I hope to characterize the *major histocompatibility complex*
 
-I remember that one time, when my two favorite hoomans and I were driving from Florida to Arizona. On a sunny day in the middle of nowhere in Florida was nestled this beautiful, rustic town. This was the moment when I first met Arby's. What a beautiful day it was!
+This includes characterizing what trends, if any, are common across reptile genomes, and 
+
 
 ```{r, fig.cap="Me and Arbys.", out.width = '50%', fig.align='center'}
 knitr::include_graphics("me_doing_stuff.jpg")
 ```
-   
 ___
 
-## 2. Temporal patterns of food availability
+## The genomic and evolutionary implications of hybridization
 
-> **Do hooman food availability show circadian rhythms?**
-
-I have been studying the above question for a long time now. However, obtaining funds to publish in current times is hard.
+As part of my post doctoral work in the [Everson lab](https://www.eversonlab.org/), I am working to characterize the signals of hybridization within the _Eulemur_ genus of Malagasy lemurs. By taking a whole genome approach, we hope to
 
 ___
 
-## 3. Future directions
+## Gene expression across life stages, species, and disease status to understand an infectious sea turtle disease
 
-* Food availability in urban vs. natural habitats
-* Daily association between amount of food available and duration of walk
-
+Using RNA sequencing data, I am exploring how gene expression is different in two sea turtle species differentially impacted by the infectious tumor disease fibropapillomatosis. Preliminarily, I have found distinct, species-specific differences in immune system response when diseased. Data generated from this study
 ___
+
+## Previous research
+
+### Immune gene diversity in sea turtles
+
+**Martin KR**, Mansfield KL, Savage AE  (2022). Adaptive evolution of MHC class I immune genes and disease associations in coastal juvenile sea turtles. _Royal Society Open Science_ [*PDF*](https://royalsocietypublishing.org/doi/full/10.1098/rsos.211190)
+<!-- <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1098/rsos.211190"></div> -->
+
+A major component of my dissertation revolved around the extraordinarily diverse *major histocompatibility complex* (MHC) gene family, and how it's evolved across sea turtle species.
+
+With my co-authors, I found that MHC genes in sea turtles are shared by species tens of millions of years diverged. While no one MHC allele was definitively linked to the occurrence of the infectious tumor disease fibropapillomatosis, we found that loggerhead (_Caretta caretta_) and green turtles (_Chelonia mydas_) have sizable MHC nucleotide and sequence diversity.
+
+```{r, fig.cap = "MHC gene tree from our 2022 paper (figure 2), highlighting MHC alleles shared by species", out.width = '50%', fig.align='center'}
+knitr::include_graphics("/Users/katiemartin/Documents/GitHub/personal_webpage/images/fig2.png")
+```
+
